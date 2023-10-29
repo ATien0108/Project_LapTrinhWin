@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{85981537-3F5F-4523-A4C0-F3A863FE1A7E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyQuanNET</RootNamespace>
+    <AssemblyName>QuanLyQuanNET</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDangNhap.Designer.cs">
+      <DependentUpon>fDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDichVu.Designer.cs">
+      <DependentUpon>fDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fKhachHang.Designer.cs">
+      <DependentUpon>fKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fMayTinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMayTinh.Designer.cs">
+      <DependentUpon>fMayTinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLHoaDonDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLHoaDonDichVu.Designer.cs">
+      <DependentUpon>fQLHoaDonDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLMucKhac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLMucKhac.Designer.cs">
+      <DependentUpon>fQLMucKhac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLDichVu.Designer.cs">
+      <DependentUpon>fQLDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLHoaDonMayTinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLHoaDonMayTinh.Designer.cs">
+      <DependentUpon>fQLHoaDonMayTinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLKhachHang.Designer.cs">
+      <DependentUpon>fQLKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLMayTinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLMayTinh.Designer.cs">
+      <DependentUpon>fQLMayTinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLNhanVien.Designer.cs">
+      <DependentUpon>fQLNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQuanLy.Designer.cs">
+      <DependentUpon>fQuanLy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLThongKe.Designer.cs">
+      <DependentUpon>fQLThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLThongTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLThongTin.Designer.cs">
+      <DependentUpon>fQLThongTin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fThongTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fThongTin.Designer.cs">
+      <DependentUpon>fThongTin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fDangNhap.resx">
+      <DependentUpon>fDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fDichVu.resx">
+      <DependentUpon>fDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fKhachHang.resx">
+      <DependentUpon>fKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMayTinh.resx">
+      <DependentUpon>fMayTinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLHoaDonDichVu.resx">
+      <DependentUpon>fQLHoaDonDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLMucKhac.resx">
+      <DependentUpon>fQLMucKhac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLDichVu.resx">
+      <DependentUpon>fQLDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLHoaDonMayTinh.resx">
+      <DependentUpon>fQLHoaDonMayTinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLKhachHang.resx">
+      <DependentUpon>fQLKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLMayTinh.resx">
+      <DependentUpon>fQLMayTinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLNhanVien.resx">
+      <DependentUpon>fQLNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQuanLy.resx">
+      <DependentUpon>fQuanLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLThongKe.resx">
+      <DependentUpon>fQLThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLThongTin.resx">
+      <DependentUpon>fQLThongTin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fThongTin.resx">
+      <DependentUpon>fThongTin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

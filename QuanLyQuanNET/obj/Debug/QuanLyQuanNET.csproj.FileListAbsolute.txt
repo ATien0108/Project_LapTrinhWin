@@ -1,0 +1,150 @@
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.exe.config
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.exe
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.pdb
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.AssemblyReference.cache
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.SuggestedBindingRedirects.cache
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQuanLy.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.Properties.Resources.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.GenerateResource.cache
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.CoreCompileInputs.cache
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.exe
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.pdb
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fDangNhap.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLHoaDonDichVu.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLMucKhac.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLDichVu.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLHoaDonMayTinh.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLKhachHang.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLMayTinh.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLNhanVien.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLThongKe.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLThongTin.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fKhachHang.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fDichVu.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fMayTinh.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fThongTin.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.exe.config
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.exe
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.pdb
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.AssemblyReference.cache
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.SuggestedBindingRedirects.cache
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fDangNhap.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fDichVu.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fKhachHang.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fMayTinh.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLHoaDonDichVu.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLMucKhac.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLDichVu.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLHoaDonMayTinh.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLKhachHang.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLMayTinh.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLNhanVien.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQuanLy.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLThongKe.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLThongTin.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fThongTin.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.Properties.Resources.resources
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.GenerateResource.cache
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.CoreCompileInputs.cache
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.exe
+D:\FILE cua Tu\ĐH SPKT\N2-HK2\WIPR230579\CK\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.pdb
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.exe.config
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.exe
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.pdb
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.AssemblyReference.cache
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.SuggestedBindingRedirects.cache
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fDangNhap.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fDichVu.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fKhachHang.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fMayTinh.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLHoaDonDichVu.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLMucKhac.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLDichVu.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLHoaDonMayTinh.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLKhachHang.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLMayTinh.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLNhanVien.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQuanLy.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLThongKe.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLThongTin.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fThongTin.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.Properties.Resources.resources
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.GenerateResource.cache
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.CoreCompileInputs.cache
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.exe
+D:\HocLapTrinh\LapTrinhWindows\DoAnCuoiKy\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.pdb
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.AssemblyReference.cache
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.SuggestedBindingRedirects.cache
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fDangNhap.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fDichVu.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fKhachHang.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fMayTinh.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLHoaDonDichVu.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLMucKhac.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLDichVu.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLHoaDonMayTinh.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLKhachHang.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLMayTinh.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLNhanVien.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQuanLy.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLThongKe.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLThongTin.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fThongTin.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.Properties.Resources.resources
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.GenerateResource.cache
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.CoreCompileInputs.cache
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.exe
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.pdb
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.exe.config
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.exe
+D:\FILE cua Tu\CK 76\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.pdb
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.exe.config
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.exe
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.pdb
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.AssemblyReference.cache
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.SuggestedBindingRedirects.cache
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fDangNhap.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fDichVu.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fKhachHang.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fMayTinh.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLHoaDonDichVu.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLMucKhac.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLDichVu.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLHoaDonMayTinh.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLKhachHang.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLMayTinh.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLNhanVien.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQuanLy.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLThongKe.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLThongTin.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fThongTin.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.Properties.Resources.resources
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.GenerateResource.cache
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.CoreCompileInputs.cache
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.exe
+D:\FILE cua Tu\CK 99\CK 76\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.pdb
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.exe.config
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.exe
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\bin\Debug\QuanLyQuanNET.pdb
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.AssemblyReference.cache
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.SuggestedBindingRedirects.cache
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fDangNhap.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fDichVu.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fKhachHang.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fMayTinh.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLHoaDonDichVu.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLMucKhac.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLDichVu.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLHoaDonMayTinh.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLKhachHang.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLMayTinh.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLNhanVien.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQuanLy.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLThongKe.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fQLThongTin.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.fThongTin.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.Properties.Resources.resources
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.GenerateResource.cache
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.csproj.CoreCompileInputs.cache
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.exe
+D:\Kỳ 2 năm 2_2022-2023\LaptrinhWindows\BaoCaoCuoiKy\CK 99\QuanLyQuanNET\obj\Debug\QuanLyQuanNET.pdb
